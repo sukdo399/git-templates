@@ -1,0 +1,8 @@
+[user]
+	name = Seokha Ko
+	email = 
+[core]
+	editor = vim
+	autocrlf = input
+[commit]
+	template = /home/shko/git-templates/commit-template.txt
