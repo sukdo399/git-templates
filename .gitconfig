@@ -1,8 +1,15 @@
 [user]
 	name = Seokha Ko
-	email = 
+	email = sukdo399@daum.net
 [core]
 	editor = vim
-	autocrlf = input
+	filemode = true
+[merge]
+	tool = vimdiff
+[color]
+    ui=auto
 [commit]
-	template = /home/shko/git-templates/commit-template.txt
+	template = /home/shko/gitconf/commit-template.txt
+[init]
+	templatedir = /home/shko/gitconf/
+
