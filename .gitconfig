@@ -12,4 +12,12 @@
 	template = /home/shko/gitconf/commit-template.txt
 [init]
 	templatedir = /home/shko/gitconf/
-
+[sendemail]
+	smtpserver = smtp.daum.net
+	smtpserverport = 465
+	smtpencryption = ssl
+	smtpuser = sukdo399@daum.net
+[diff]
+	tool = meld
+[merge]
+	tool = meld
