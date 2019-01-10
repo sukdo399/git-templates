@@ -7,7 +7,7 @@
 [merge]
 	tool = vimdiff
 [color]
-    ui=auto
+        ui=auto
 [commit]
 	template = /home/shko/gitconf/commit-template.txt
 [init]
